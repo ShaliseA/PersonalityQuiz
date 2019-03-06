@@ -4,7 +4,7 @@ a multiple choice and ranged choice questions that will align them to a particul
 dog, cat, rabbit, and turtle.
 
 Visula Description:
-![myimage-alt-tag](https://github.com/ShaliseA/PersonalityQuiz/blob/master/possibleOutcome.png)
+![myimage-alt-tag](https://github.com/ShaliseA/PersonalityQuiz/blob/master/allPossibleScreens.png)
 
 Knowledge needed to build the app: UIKit and its controls, managing the size and position of views, using Auto Layout and
 stack views, and managing the flow of the app using navigating and tab controllers. 
